@@ -1,4 +1,9 @@
 {
-  "NETWORK_ID": 97,
-  "CONTRACT_ADDRESS": "0x71bD60a762591923b3b789843B011FF10CC5577F"
+  "NETWORK_ID": 56,
+  "CONTRACT_ADDRESS": "0x71bD60a762591923b3b789843B011FF10CC5577F",
+  "BSCSCAN": "https://www.bscscan.com/address/0xd81F5DB384d604D85D158FCb8E00341Aff200E22",
+  "TWITTER": "https://twitter.com/roastbeefminer",
+  "TELEGRAM": "https://t.me/roastbeefgroup",
+  "WP": "https://roastedbeef.io/static/media/wp.9c3f847b.pdf",
+  "AUDIT": "https://roastedbeef.io/static/media/audit.f1590bcb.pdf"
 }

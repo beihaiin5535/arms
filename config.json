@@ -5,5 +5,5 @@
   "TWITTER": "https://twitter.com/BNBFarmOffical",
   "TELEGRAM": "https://t.me/bnbfarmchat",
   "WP": "./static/media/wp.pdf",
-  "AUDIT": "./static/media/audit.pdf"
+  "AUDIT": "./"
 }
